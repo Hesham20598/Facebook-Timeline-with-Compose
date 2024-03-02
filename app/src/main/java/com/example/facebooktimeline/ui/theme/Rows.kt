@@ -247,6 +247,6 @@ fun FinalRow(id: Int, description: String, text: String) {
 
 @Preview(showBackground = true , showSystemUi = true)
 @Composable
-fun FirstRowPreview() {
+fun RowPreview() {
   ThirdRow()
 }
