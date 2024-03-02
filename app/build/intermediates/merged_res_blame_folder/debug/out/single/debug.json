@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_like.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\like.png"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_ic_comment.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\ic_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_ic_whatsapp.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\ic_whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable-night_ic_public.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable-night\\ic_public.png"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_ic_public.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\ic_public.png"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_ic_notification.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_ic_search.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "com.example.facebooktimeline.app-merged_res-44:/drawable_ic_gallery.png.flat",
+        "source": "com.example.facebooktimeline.app-main-46:/drawable/ic_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_sea_pic.jpg.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\sea_pic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_ic_share.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_ic_shop.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\ic_shop.png"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_ic_home.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_ic_menue.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\ic_menue.png"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_ic_like.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\ic_like.png"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_unknown.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\unknown.png"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_ic_friends.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\ic_friends.png"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_ic_messenger.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\ic_messenger.png"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_ic_add.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_laugh.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\laugh.png"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_favorite.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\font_facebook.OTF.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\font\\facebook.OTF"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-merged_res-44:\\drawable_ic_reels.png.flat",
+        "source": "C:\\Users\\hesha\\.gradle\\daemon\\8.2\\com.example.facebooktimeline.app-main-46:\\drawable\\ic_reels.png"
+    }
+]
