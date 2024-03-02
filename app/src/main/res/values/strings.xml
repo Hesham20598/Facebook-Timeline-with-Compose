@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Facebook TimeLine</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="like">Like</string>
+    <string name="send">Send</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    <string name="what_s_in_your_mind">What\'s in your mind?</string>
+    <string name="facebook">facebook</string>
+</resources>
