@@ -19,7 +19,7 @@ import com.example.facebooktimeline.model.Story
 
 @Composable
 fun TimeLineContent() {
-    val state = rememberScrollState()
+//    val state = rememberScrollState()
     val postsList = mutableListOf<Post>()
     val storyList = mutableListOf<Story>()
     for (i in 0..3) {
@@ -44,7 +44,7 @@ fun TimeLineContent() {
     Column(
         modifier = Modifier
             .fillMaxSize()
-            .verticalScroll(state)
+//            .verticalScroll(state)
 
 
     ) {
