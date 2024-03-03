@@ -27,7 +27,7 @@ import com.example.facebooktimeline.R
 import com.example.facebooktimeline.model.Story
 
 @Composable
-fun StoryUi(story: Story) {
+fun StoryUI(story: Story) {
     Card(
         modifier = Modifier
             .padding(end = 10.dp)
@@ -88,5 +88,5 @@ fun StoryUi(story: Story) {
 @Preview(showSystemUi = true, showBackground = true)
 @Composable
 fun StoryPreview() {
-    StoryUi(story = Story("Mark Lee", R.drawable.unknown, R.drawable.sea_pic))
+    StoryUI(story = Story("Mark Lee", R.drawable.unknown, R.drawable.sea_pic))
 }

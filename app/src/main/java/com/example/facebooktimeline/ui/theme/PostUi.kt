@@ -8,6 +8,7 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.lazy.LazyListScope
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Close
@@ -30,7 +31,7 @@ import com.example.facebooktimeline.R
 import com.example.facebooktimeline.model.Post
 
 @Composable
-fun Post(post: Post) {
+fun PostUI(post: Post) {
     ConstraintLayout {
         val (userImage, userName, time, ic_public, ic_options,
             postImage, postDescription, shares, commnets, interaction, finalRow, devider, exitPost) = createRefs()
@@ -124,6 +125,7 @@ fun Post(post: Post) {
                 .padding(top = 8.dp)
                 .constrainAs(postImage) {
                     start.linkTo(parent.start)
+                    end.linkTo(parent.end)
                     top.linkTo(postDescription.bottom)
                 }
         )
@@ -214,7 +216,7 @@ fun Post(post: Post) {
 @Preview(showBackground = true, showSystemUi = true)
 @Composable
 fun PostPreview() {
-    Post(
+    PostUI(
         post = Post(
             "Mark Lee",
             R.drawable.unknown,

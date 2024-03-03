@@ -12,7 +12,6 @@ fun FacebookTimeLine() {
     Column(modifier = Modifier.fillMaxSize()) {
         FirstRow()
         SecondRow()
-        ThirdRow()
         TimeLineContent()
     }
 }
